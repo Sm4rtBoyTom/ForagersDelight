@@ -21,7 +21,7 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 | Pants  | Back Pocket  | 0.05Kg (per pocket)  |
 | Jacket/Sweater  | Regular Pocket  | 0.1Kg (per pocket)  |
 | Jacket/Sweater  | Breast Pocket  | 0.05Kg (per pocket)  |
-| Tactical Jacket   | Back Pocket (exclusive)  | 0.1Kg (per pocket)  |
+| Tactical Jacket   | Back Pocket (unique)  | 0.1Kg (per pocket)  |
 
 ### Example of clothing with bonus
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c73b3879-0918-4ce2-aa8d-0417461ed955" />
