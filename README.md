@@ -34,6 +34,5 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 ### Installation
 
 - **Install [ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases/tag/v2.0) and it's dependencies.**
-
 - **Drop the** **.dll** **file into your mods folder**.
 - **Enjoy**!
