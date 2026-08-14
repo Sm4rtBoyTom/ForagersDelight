@@ -3,15 +3,19 @@
 Forager's Delight is a mod for [The Long Dark](https://www.thelongdark.com). 
 A video game developed by [Hinterland Games](https://hinterlandgames.com/).
 
-## Mod Support
+## Compatibility
 
  -  **Camping Tools by [Jods-Its](https://github.com/Jods-Its/Jods-Camping-Tools).**
  -  **Nomad's Expedition by [Maple-Sapling](https://github.com/Maple-Sapling/NomadsExpedition).**
  -  **Northfolk Clothing Pack by [Waltz](https://github.com/HAHAYOUDEAD/NorthfolkClothingPack).**
  -  **Clothing Expanded [MooseMeat](https://github.com/moosemeat817/ClothingExpanded).**
+ - **Cougar Backpack  [BaltaZar](https://github.com/BaltaZar-7/CougarBackpack).**
 
 ### Forager's Delight mod adds small (customizable) carry weight buff to some clothing items. 
  **Mod allows for much more interesting clothing combination which would not be previously used and makes some less used clothing items more viable.**
+
+> [!NOTE]
+> As of release 1.3.0 this mod allows the user to tweak weight reduction of rifle holster and capacity of the tool belt
 
 ### Additional Carrying Capacity Calculations 
 | Type of Clothing  | Type of pocket | Amount of additional weight |
