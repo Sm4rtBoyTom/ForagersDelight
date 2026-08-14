@@ -1,6 +1,0 @@
-﻿[assembly: AssemblyTitle("ForagersDelight")]
-[assembly: AssemblyCopyright("Sm4rtBoyTom")]
-[assembly: AssemblyVersion("1.3.0")]
-[assembly: AssemblyFileVersion("1.3.0")]
-[assembly: MelonInfo(typeof(ForagersDelightMod.Main), "ForagersDelight", "1.3.0", "Sm4rtBoyTom", null)]
-[assembly: MelonGame("Hinterland", "TheLongDark")]
